@@ -1,4 +1,4 @@
- /* eslint no-console: ["error", { allow: ["warn", "error"] }] */
+/* eslint no-console: ["error", { allow: ["warn", "error"] }] */
 const express = require('express');
 const morgan = require('morgan');
 const bodyParser = require('body-parser');
